@@ -1,0 +1,6 @@
+PP Plugin for WordPress
+
+Copyright 2021 by Alwyn Malan
+
+Alwyn Malan accepts no responsibility for any loss or damage of whatsoever nature that may be caused or
+brought about, directly or indirectly, by the use of this code or reliance on any information contained herein.
